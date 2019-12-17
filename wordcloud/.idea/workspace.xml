@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34b4e91e-4d35-4488-9432-7c49212b5d42" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/wordcloud$picus.coverage" NAME="picus Coverage Results" MODIFIED="1576462142403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V2wCwGz0Mgv9q9tL1tXO96cSkE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="wordcloud" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="wordcloud" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/font" />
+      <recent name="$PROJECT_DIR$/result" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/pic" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.picus (1)">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wordcloud" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="wordcloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="picus (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wordcloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/picus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="picus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wordcloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/result/picus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="picus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wordcloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/picus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.picus (1)" />
+        <item itemvalue="Python.picus" />
+        <item itemvalue="Python.picus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34b4e91e-4d35-4488-9432-7c49212b5d42" name="Default" comment="" />
+      <created>1576204916782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576204916782</updated>
+      <workItem from="1576464377920" duration="6434000" />
+      <workItem from="1576546246624" duration="7622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="178" y="59" width="1071" height="747" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576488387562">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="178" y="59" width="1071" height="747" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1576488387562" />
+    <state x="507" y="186" key="FileChooserDialogImpl" timestamp="1576464512000">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="507" y="186" key="FileChooserDialogImpl/0.23.1440.797@0.23.1440.797" timestamp="1576464512000" />
+    <state width="1363" height="172" key="GridCell.Tab.0.bottom" timestamp="1576576406494">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1363" height="172" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1576559104032" />
+    <state width="1363" height="172" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1576576406494" />
+    <state width="1363" height="172" key="GridCell.Tab.0.center" timestamp="1576576406494">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1363" height="172" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1576559104032" />
+    <state width="1363" height="172" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1576576406494" />
+    <state width="1363" height="172" key="GridCell.Tab.0.left" timestamp="1576576406493">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1363" height="172" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1576559104031" />
+    <state width="1363" height="172" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1576576406493" />
+    <state width="1363" height="172" key="GridCell.Tab.0.right" timestamp="1576576406494">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1363" height="172" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1576559104032" />
+    <state width="1363" height="172" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1576576406494" />
+    <state width="1369" height="222" key="GridCell.Tab.1.bottom" timestamp="1576492212328">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1369" height="222" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1576492212328" />
+    <state width="1369" height="222" key="GridCell.Tab.1.center" timestamp="1576492212328">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1369" height="222" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1576492212328" />
+    <state width="1369" height="222" key="GridCell.Tab.1.left" timestamp="1576492212328">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1369" height="222" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1576492212328" />
+    <state width="1369" height="222" key="GridCell.Tab.1.right" timestamp="1576492212328">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1369" height="222" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1576492212328" />
+    <state x="0" y="23" key="SettingsEditor" timestamp="1576487049132">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="0" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1576487049132" />
+    <state x="376" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1576546247651">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="376" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1576546247651" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/wordcloud$picus__1_.coverage" NAME="picus (1) Coverage Results" MODIFIED="1576559073987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
