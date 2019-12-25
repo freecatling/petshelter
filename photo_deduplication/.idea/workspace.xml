@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c5f200b-3c4e-4e99-ba0d-26008d424451" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VNH06IdceKDNfw1dgI5yToH9ov" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pic1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pic/pic1" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/pic" />
+      <recent name="$PROJECT_DIR$/pic1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="uniquepic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="photo_deduplication" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uniquepic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.uniquepic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c5f200b-3c4e-4e99-ba0d-26008d424451" name="Default Changelist" comment="" />
+      <created>1577086406293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577086406293</updated>
+      <workItem from="1577086411424" duration="3076000" />
+      <workItem from="1577172289781" duration="2812000" />
+      <workItem from="1577242040325" duration="5591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1363" height="173" key="GridCell.Tab.0.bottom" timestamp="1577264358233">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1363" height="173" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1577264358233" />
+    <state width="1363" height="173" key="GridCell.Tab.0.center" timestamp="1577264358232">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1363" height="173" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1577264358232" />
+    <state width="1363" height="173" key="GridCell.Tab.0.left" timestamp="1577264358231">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1363" height="173" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1577264358231" />
+    <state width="1363" height="173" key="GridCell.Tab.0.right" timestamp="1577264358232">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1363" height="173" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1577264358232" />
+    <state x="0" y="23" key="SettingsEditor" timestamp="1577093017343">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="0" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1577093017343" />
+    <state x="221" y="172" key="com.intellij.ide.util.TipDialog" timestamp="1577242040809">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="221" y="172" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1577242040809" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/photo_deduplication$uniquepic.coverage" NAME="uniquepic Coverage Results" MODIFIED="1577264346236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
