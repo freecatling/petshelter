@@ -15,7 +15,13 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.conf.urls import url, include
+# from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    # url(r'^static/(?P<path>.*)$', static.serve, {'document_root': settings.STATIC_ROOT}, name='static'),
+    url(r'^users/', include("users.urls")),                 # 用户
+    url(r'^plan/', include("plan.urls")),                   # 计划
+    url(r'^clendar/', include("clendar.urls")),             # 日历
 ]
